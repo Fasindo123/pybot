@@ -6,7 +6,7 @@ load_dotenv()
 # Bot setup
 PREFIX = "!"
 BOT_NAME = "Romángután"
-BOT_TOKEN = os.getenv("DISCORD_TOKEN", "OTkzNTExMzEzMzI0MTEzOTkx.GkxmI2.qhBc__KBbKPwhycB5IezAsrpg-T6oWINYuJeZ8")
+BOT_TOKEN = os.getenv("DISCORD_TOKEN", "OTkzNTExMzEzMzI0MTEzOTkx.G2xwjz.q5TDmBnCNBq330v7aA7Pras_1mqppIHAo8lVrU")
 
 # Discord Guild ID
 GUILD_ID = int(os.getenv("GUILD_ID", "995785071778865222"))
